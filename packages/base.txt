@@ -1,0 +1,22 @@
+# Basic utilities and tools
+7zip
+winrar
+windows-terminal
+nano
+curl
+wget
+git
+oh-my-posh
+powershell-core
+firacode
+chocolatey-core.extension
+python3
+firefox
+google-chrome
+notepadeplus
+peazip
+putty
+winscp
+postman
+filezilla
+winmerge

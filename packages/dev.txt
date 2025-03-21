@@ -1,0 +1,27 @@
+# Development tools and frameworks
+vscode
+nodejs
+yarn
+deno
+nvm
+go
+rust
+maven
+jdk8
+jdk11
+jdk17
+docker-desktop
+kubectl
+aws-cli
+azure-cli
+terraform
+postman
+insomnia-rest-api-client
+git-fork
+visual-studio-2022-community
+visual-studio-code
+android-studio
+redis-desktop-manager
+mongodb-compass
+mysql.workbench
+pgadmin4
